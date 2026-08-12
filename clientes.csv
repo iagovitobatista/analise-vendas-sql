@@ -1,0 +1,501 @@
+﻿cliente_id,cliente_nome,cidade,uf,data_cadastro,segmento
+1,Aline Souza,São Paulo,SP,2024-01-30,Varejo
+2,Henrique Pereira,Rio de Janeiro,RJ,2023-11-24,Premium
+3,Samuel Oliveira,Santos,SP,2023-03-09,Varejo
+4,Carla Rodrigues,Curitiba,PR,2023-06-02,Varejo
+5,Samuel Rodrigues,Campinas,SP,2023-03-06,Varejo
+6,Tatiana Nascimento,São Paulo,SP,2024-02-17,Premium
+7,Daniela Gomes,Salvador,BA,2022-10-12,Varejo
+8,Fernanda Araújo,Rio de Janeiro,RJ,2022-04-05,Varejo
+9,Lucas Fernandes,Santos,SP,2022-09-28,Premium
+10,Erick Martins,Campinas,SP,2022-05-08,Corporativo
+11,Mariana Oliveira,Campinas,SP,2022-10-28,Premium
+12,Vinicius Fernandes,Santos,SP,2022-07-16,Premium
+13,Bruno Almeida,Porto Alegre,RS,2022-03-23,Premium
+14,Igor Souza,Recife,PE,2022-10-12,Varejo
+15,Helena Fernandes,Belo Horizonte,MG,2023-01-15,Varejo
+16,Caio Nascimento,Rio de Janeiro,RJ,2023-09-16,Varejo
+17,Samuel Almeida,Belo Horizonte,MG,2023-04-19,Varejo
+18,Leandro Barbosa,Curitiba,PR,2023-12-03,Varejo
+19,Fernanda Santos,Curitiba,PR,2024-04-21,Varejo
+20,Karina Carvalho,Porto Alegre,RS,2022-03-09,Varejo
+21,Tatiana Araújo,Curitiba,PR,2023-11-03,Varejo
+22,Juliana Martins,Belo Horizonte,MG,2022-09-29,Varejo
+23,Erick Barbosa,Campinas,SP,2022-09-27,Premium
+24,Nicolas Melo,Recife,PE,2023-01-06,Varejo
+25,Eduarda Ribeiro,Fortaleza,CE,2022-04-04,Premium
+26,Igor Souza,Belo Horizonte,MG,2023-10-05,Varejo
+27,Caio Gomes,Santos,SP,2022-03-07,Varejo
+28,Vinicius Martins,Campinas,SP,2022-09-15,Corporativo
+29,Igor Silva,Rio de Janeiro,RJ,2023-11-30,Premium
+30,Fernanda Nascimento,Salvador,BA,2022-04-25,Varejo
+31,Felipe Martins,São Paulo,SP,2024-01-10,Premium
+32,Isabela Ribeiro,Belo Horizonte,MG,2023-06-04,Corporativo
+33,Igor Lima,Campinas,SP,2023-09-16,Varejo
+34,Lucas Costa,Campinas,SP,2024-03-08,Corporativo
+35,Leandro Silva,Santos,SP,2022-11-28,Varejo
+36,Diego Fernandes,Porto Alegre,RS,2022-09-03,Varejo
+37,Juliana Melo,Rio de Janeiro,RJ,2022-03-29,Premium
+38,Helena Oliveira,Campinas,SP,2024-02-24,Varejo
+39,Caio Rocha,Campinas,SP,2022-06-19,Varejo
+40,Igor Cardoso,Recife,PE,2022-08-05,Corporativo
+41,Fernanda Rodrigues,Porto Alegre,RS,2023-02-13,Corporativo
+42,Aline Fernandes,Fortaleza,CE,2023-06-14,Varejo
+43,Henrique Almeida,Rio de Janeiro,RJ,2022-12-13,Varejo
+44,Samuel Almeida,Santos,SP,2022-08-14,Varejo
+45,Daniela Santos,Curitiba,PR,2022-03-11,Corporativo
+46,Igor Araújo,Rio de Janeiro,RJ,2023-06-11,Varejo
+47,Caio Rocha,Curitiba,PR,2023-07-07,Varejo
+48,Leandro Melo,Santos,SP,2023-04-30,Varejo
+49,Paulo Gomes,Curitiba,PR,2022-04-07,Varejo
+50,Nicolas Fernandes,Recife,PE,2023-02-25,Varejo
+51,Erick Santos,Rio de Janeiro,RJ,2022-03-04,Varejo
+52,Karina Souza,Curitiba,PR,2022-07-16,Varejo
+53,Olivia Pereira,Recife,PE,2022-07-07,Varejo
+54,Henrique Oliveira,Fortaleza,CE,2024-04-07,Premium
+55,Samuel Souza,São Paulo,SP,2023-10-30,Corporativo
+56,Helena Silva,Rio de Janeiro,RJ,2024-02-11,Premium
+57,Felipe Gomes,Fortaleza,CE,2023-05-08,Varejo
+58,Mariana Santos,Belo Horizonte,MG,2023-01-24,Varejo
+59,Mariana Nascimento,Fortaleza,CE,2022-10-20,Varejo
+60,Erick Barbosa,Fortaleza,CE,2022-06-08,Varejo
+61,Gabriela Santos,Santos,SP,2024-01-24,Varejo
+62,Erick Araújo,São Paulo,SP,2022-02-21,Varejo
+63,Rafaela Ribeiro,Belo Horizonte,MG,2022-02-28,Corporativo
+64,Carla Costa,Rio de Janeiro,RJ,2023-09-02,Varejo
+65,Igor Almeida,Recife,PE,2022-05-03,Corporativo
+66,Tatiana Almeida,Santos,SP,2023-09-01,Varejo
+67,Carla Gomes,Santos,SP,2023-08-02,Varejo
+68,Leandro Nascimento,Curitiba,PR,2023-11-17,Premium
+69,Henrique Nascimento,Recife,PE,2022-05-15,Varejo
+70,João Martins,Salvador,BA,2024-02-09,Corporativo
+71,Ana Martins,Santos,SP,2023-07-31,Corporativo
+72,Carla Barbosa,Curitiba,PR,2023-06-03,Varejo
+73,Leandro Fernandes,Rio de Janeiro,RJ,2024-06-19,Varejo
+74,João Costa,Fortaleza,CE,2024-05-03,Varejo
+75,João Cardoso,Campinas,SP,2022-01-09,Varejo
+76,Samuel Lima,Rio de Janeiro,RJ,2024-06-18,Varejo
+77,Diego Souza,Campinas,SP,2022-06-09,Varejo
+78,Vinicius Rodrigues,Salvador,BA,2022-07-28,Varejo
+79,Igor Nascimento,Campinas,SP,2023-05-16,Varejo
+80,Leandro Santos,Rio de Janeiro,RJ,2023-10-12,Varejo
+81,Isabela Santos,São Paulo,SP,2022-12-08,Premium
+82,Aline Nascimento,Belo Horizonte,MG,2024-01-30,Varejo
+83,Daniela Gomes,Campinas,SP,2022-01-10,Varejo
+84,Juliana Pereira,Campinas,SP,2022-02-06,Premium
+85,Tatiana Barbosa,Belo Horizonte,MG,2023-03-17,Varejo
+86,João Fernandes,São Paulo,SP,2023-01-02,Varejo
+87,Henrique Souza,Salvador,BA,2024-03-09,Varejo
+88,Igor Gomes,Santos,SP,2024-02-07,Varejo
+89,Leandro Almeida,Belo Horizonte,MG,2024-03-30,Premium
+90,Juliana Gomes,São Paulo,SP,2022-07-03,Premium
+91,Karina Gomes,Curitiba,PR,2022-10-01,Varejo
+92,Daniela Souza,Recife,PE,2024-06-12,Varejo
+93,Paulo Almeida,Curitiba,PR,2024-04-16,Corporativo
+94,Lucas Lima,Curitiba,PR,2022-08-17,Varejo
+95,Gabriela Carvalho,Salvador,BA,2022-10-13,Premium
+96,Fernanda Nascimento,Salvador,BA,2023-10-19,Varejo
+97,Caio Barbosa,Salvador,BA,2022-01-29,Varejo
+98,Isabela Costa,Santos,SP,2022-09-29,Varejo
+99,Vinicius Gomes,Salvador,BA,2024-01-17,Premium
+100,Nicolas Cardoso,Campinas,SP,2022-04-29,Varejo
+101,Tatiana Rodrigues,Porto Alegre,RS,2022-02-15,Premium
+102,Ana Ribeiro,Campinas,SP,2023-12-05,Premium
+103,Erick Rodrigues,Salvador,BA,2023-03-18,Varejo
+104,Caio Araújo,Santos,SP,2022-11-18,Varejo
+105,Diego Lima,Campinas,SP,2022-11-13,Varejo
+106,Karina Carvalho,Porto Alegre,RS,2023-07-22,Varejo
+107,Nicolas Carvalho,Belo Horizonte,MG,2023-09-23,Varejo
+108,Mariana Barbosa,São Paulo,SP,2022-11-08,Varejo
+109,Nicolas Melo,Santos,SP,2023-11-02,Varejo
+110,Olivia Martins,Curitiba,PR,2023-06-08,Varejo
+111,Juliana Costa,Rio de Janeiro,RJ,2022-10-18,Varejo
+112,Aline Cardoso,Salvador,BA,2022-04-06,Premium
+113,Fernanda Almeida,Porto Alegre,RS,2022-08-19,Premium
+114,Eduarda Silva,São Paulo,SP,2022-09-08,Corporativo
+115,Vinicius Oliveira,Fortaleza,CE,2023-03-01,Premium
+116,Tatiana Rodrigues,Recife,PE,2023-05-22,Varejo
+117,Eduarda Silva,Rio de Janeiro,RJ,2024-03-08,Varejo
+118,Felipe Ribeiro,Fortaleza,CE,2022-02-21,Varejo
+119,Leandro Souza,Fortaleza,CE,2022-05-17,Premium
+120,Caio Ribeiro,Campinas,SP,2023-09-02,Varejo
+121,Fernanda Martins,Santos,SP,2024-04-14,Premium
+122,Rafaela Gomes,Campinas,SP,2023-04-02,Premium
+123,Erick Rocha,Fortaleza,CE,2022-09-23,Premium
+124,Helena Nascimento,Campinas,SP,2023-05-12,Varejo
+125,Isabela Martins,Rio de Janeiro,RJ,2024-01-01,Varejo
+126,Isabela Araújo,Salvador,BA,2023-07-08,Varejo
+127,Eduarda Almeida,Recife,PE,2023-12-12,Varejo
+128,Gabriela Oliveira,Recife,PE,2023-02-22,Varejo
+129,Olivia Gomes,São Paulo,SP,2022-07-31,Premium
+130,Mariana Melo,São Paulo,SP,2024-05-27,Premium
+131,Tatiana Carvalho,Fortaleza,CE,2022-01-07,Corporativo
+132,João Carvalho,Recife,PE,2023-07-06,Premium
+133,Samuel Cardoso,Curitiba,PR,2023-05-15,Varejo
+134,Nicolas Rocha,São Paulo,SP,2023-02-03,Varejo
+135,Caio Carvalho,Belo Horizonte,MG,2024-05-10,Varejo
+136,Eduarda Cardoso,Campinas,SP,2022-01-28,Corporativo
+137,Tatiana Melo,São Paulo,SP,2022-03-27,Varejo
+138,Eduarda Martins,Belo Horizonte,MG,2022-02-21,Varejo
+139,Karina Rodrigues,Fortaleza,CE,2022-12-01,Varejo
+140,Juliana Carvalho,Porto Alegre,RS,2024-02-10,Corporativo
+141,Nicolas Nascimento,Rio de Janeiro,RJ,2023-04-27,Varejo
+142,Samuel Santos,Salvador,BA,2022-08-18,Varejo
+143,Fernanda Santos,São Paulo,SP,2022-09-11,Varejo
+144,Ana Cardoso,Belo Horizonte,MG,2022-09-02,Varejo
+145,Caio Souza,Santos,SP,2022-08-12,Varejo
+146,Isabela Fernandes,Belo Horizonte,MG,2023-09-13,Varejo
+147,Erick Souza,Belo Horizonte,MG,2022-11-15,Varejo
+148,Ana Lima,Santos,SP,2023-11-25,Corporativo
+149,Mariana Carvalho,Curitiba,PR,2022-03-19,Varejo
+150,Helena Almeida,Rio de Janeiro,RJ,2023-12-15,Premium
+151,Igor Cardoso,Rio de Janeiro,RJ,2024-03-26,Corporativo
+152,Gustavo Santos,Salvador,BA,2023-06-30,Varejo
+153,Lucas Oliveira,Campinas,SP,2023-10-26,Varejo
+154,Igor Gomes,Fortaleza,CE,2022-04-19,Varejo
+155,Lucas Martins,Belo Horizonte,MG,2023-03-22,Varejo
+156,Rafaela Nascimento,Santos,SP,2024-04-07,Corporativo
+157,Fernanda Rocha,Fortaleza,CE,2023-03-23,Premium
+158,Tatiana Nascimento,Salvador,BA,2024-05-22,Varejo
+159,Leandro Oliveira,Porto Alegre,RS,2023-04-07,Varejo
+160,Olivia Melo,Santos,SP,2023-11-16,Varejo
+161,Ana Rocha,Salvador,BA,2022-07-06,Varejo
+162,Lucas Nascimento,Salvador,BA,2022-10-14,Premium
+163,Daniela Nascimento,Campinas,SP,2022-01-11,Varejo
+164,Gabriela Oliveira,Curitiba,PR,2024-01-08,Varejo
+165,Samuel Almeida,Fortaleza,CE,2023-10-24,Premium
+166,Olivia Silva,Rio de Janeiro,RJ,2022-10-29,Varejo
+167,Daniela Almeida,Porto Alegre,RS,2023-11-11,Varejo
+168,Paulo Barbosa,Campinas,SP,2022-12-19,Varejo
+169,Erick Barbosa,Salvador,BA,2022-12-27,Premium
+170,Isabela Lima,Porto Alegre,RS,2022-08-25,Varejo
+171,Gabriela Araújo,Rio de Janeiro,RJ,2024-01-31,Varejo
+172,Fernanda Costa,Curitiba,PR,2022-08-10,Premium
+173,Isabela Melo,Campinas,SP,2023-09-04,Varejo
+174,Diego Rodrigues,Porto Alegre,RS,2022-08-21,Varejo
+175,João Silva,Campinas,SP,2022-05-10,Varejo
+176,Bruno Barbosa,Porto Alegre,RS,2023-12-16,Corporativo
+177,Aline Rocha,Rio de Janeiro,RJ,2024-06-12,Varejo
+178,João Rocha,Fortaleza,CE,2023-03-28,Varejo
+179,Bruno Nascimento,Fortaleza,CE,2022-04-27,Premium
+180,Mariana Rocha,Rio de Janeiro,RJ,2023-08-14,Varejo
+181,Bruno Pereira,Belo Horizonte,MG,2024-04-10,Varejo
+182,João Oliveira,Curitiba,PR,2022-05-02,Varejo
+183,Nicolas Cardoso,Santos,SP,2024-03-20,Varejo
+184,Fernanda Ribeiro,Recife,PE,2023-04-07,Corporativo
+185,João Melo,Recife,PE,2022-11-09,Varejo
+186,Bruno Cardoso,Rio de Janeiro,RJ,2024-02-21,Varejo
+187,Gabriela Nascimento,Rio de Janeiro,RJ,2022-06-10,Varejo
+188,Samuel Oliveira,Belo Horizonte,MG,2022-01-03,Varejo
+189,Daniela Cardoso,Fortaleza,CE,2022-10-26,Varejo
+190,João Lima,Fortaleza,CE,2022-03-14,Varejo
+191,Leandro Nascimento,Santos,SP,2023-11-09,Premium
+192,Gabriela Gomes,Rio de Janeiro,RJ,2023-07-12,Varejo
+193,Eduarda Nascimento,Belo Horizonte,MG,2022-03-15,Varejo
+194,Gustavo Lima,Santos,SP,2024-02-06,Premium
+195,Leandro Lima,Fortaleza,CE,2022-05-08,Varejo
+196,João Carvalho,Porto Alegre,RS,2023-05-28,Varejo
+197,Olivia Oliveira,Santos,SP,2022-02-10,Premium
+198,Erick Araújo,Santos,SP,2022-09-14,Varejo
+199,Henrique Melo,Santos,SP,2022-01-22,Corporativo
+200,Caio Nascimento,Santos,SP,2022-02-11,Premium
+201,Felipe Rocha,Campinas,SP,2023-10-30,Varejo
+202,Isabela Costa,Santos,SP,2023-03-23,Varejo
+203,Paulo Oliveira,Fortaleza,CE,2022-12-23,Varejo
+204,Karina Souza,Belo Horizonte,MG,2022-12-04,Varejo
+205,Paulo Lima,Recife,PE,2024-04-13,Premium
+206,Bruno Martins,Rio de Janeiro,RJ,2022-11-19,Varejo
+207,Diego Carvalho,Campinas,SP,2024-04-24,Corporativo
+208,Caio Barbosa,Fortaleza,CE,2023-02-28,Varejo
+209,Rafaela Fernandes,Santos,SP,2024-02-14,Varejo
+210,Olivia Santos,Curitiba,PR,2022-10-01,Varejo
+211,Leandro Lima,Fortaleza,CE,2023-12-17,Varejo
+212,Ana Cardoso,Curitiba,PR,2023-12-28,Varejo
+213,Samuel Silva,Campinas,SP,2023-02-22,Varejo
+214,Helena Souza,Fortaleza,CE,2022-05-01,Varejo
+215,Eduarda Rocha,Porto Alegre,RS,2023-06-06,Premium
+216,Nicolas Rocha,Fortaleza,CE,2022-09-07,Varejo
+217,Eduarda Carvalho,Curitiba,PR,2023-09-06,Varejo
+218,Juliana Pereira,Rio de Janeiro,RJ,2022-10-10,Premium
+219,Igor Gomes,Salvador,BA,2024-03-17,Varejo
+220,Helena Silva,Porto Alegre,RS,2024-01-14,Varejo
+221,Tatiana Melo,Fortaleza,CE,2024-06-05,Varejo
+222,Samuel Rocha,Salvador,BA,2022-12-07,Varejo
+223,Samuel Carvalho,Fortaleza,CE,2022-11-26,Premium
+224,Daniela Almeida,Santos,SP,2023-01-28,Varejo
+225,Fernanda Gomes,São Paulo,SP,2022-11-22,Premium
+226,Daniela Carvalho,Recife,PE,2023-11-11,Premium
+227,Aline Pereira,Fortaleza,CE,2022-02-07,Varejo
+228,Tatiana Araújo,Rio de Janeiro,RJ,2024-06-14,Premium
+229,Diego Ribeiro,Fortaleza,CE,2022-01-16,Premium
+230,Nicolas Pereira,Rio de Janeiro,RJ,2023-04-26,Premium
+231,Isabela Araújo,Santos,SP,2023-12-11,Varejo
+232,Carla Araújo,Campinas,SP,2023-01-25,Corporativo
+233,Aline Rocha,Campinas,SP,2022-02-06,Varejo
+234,Henrique Lima,Curitiba,PR,2024-02-04,Varejo
+235,Diego Souza,Fortaleza,CE,2022-06-20,Varejo
+236,Juliana Silva,São Paulo,SP,2022-11-29,Premium
+237,João Fernandes,Salvador,BA,2023-03-18,Varejo
+238,Rafaela Gomes,Santos,SP,2023-11-30,Premium
+239,Felipe Costa,Rio de Janeiro,RJ,2023-09-17,Premium
+240,Vinicius Almeida,Fortaleza,CE,2023-08-21,Varejo
+241,Olivia Nascimento,Fortaleza,CE,2022-09-19,Varejo
+242,Juliana Martins,Porto Alegre,RS,2023-11-25,Varejo
+243,Carla Martins,Salvador,BA,2023-08-25,Varejo
+244,Nicolas Nascimento,Fortaleza,CE,2024-05-15,Varejo
+245,Mariana Rocha,Rio de Janeiro,RJ,2022-08-31,Varejo
+246,Lucas Melo,Porto Alegre,RS,2023-12-18,Varejo
+247,Helena Carvalho,Porto Alegre,RS,2022-01-09,Varejo
+248,Caio Santos,Santos,SP,2024-02-03,Varejo
+249,Juliana Lima,Curitiba,PR,2023-09-14,Premium
+250,Henrique Rodrigues,Santos,SP,2022-09-14,Varejo
+251,Erick Pereira,Rio de Janeiro,RJ,2023-10-05,Varejo
+252,João Martins,São Paulo,SP,2023-08-17,Varejo
+253,Eduarda Oliveira,Porto Alegre,RS,2022-12-01,Premium
+254,Felipe Rodrigues,Belo Horizonte,MG,2024-03-16,Varejo
+255,Lucas Ribeiro,Campinas,SP,2022-10-07,Premium
+256,Isabela Rocha,Porto Alegre,RS,2024-02-04,Premium
+257,Gustavo Souza,Fortaleza,CE,2022-03-19,Varejo
+258,Henrique Carvalho,Campinas,SP,2023-01-10,Varejo
+259,Mariana Silva,Porto Alegre,RS,2023-07-04,Varejo
+260,Lucas Nascimento,Santos,SP,2023-01-26,Premium
+261,Lucas Souza,Curitiba,PR,2023-04-28,Varejo
+262,Juliana Barbosa,Salvador,BA,2023-09-17,Varejo
+263,Carla Martins,Porto Alegre,RS,2023-10-27,Varejo
+264,Eduarda Santos,São Paulo,SP,2022-11-08,Corporativo
+265,Diego Souza,Curitiba,PR,2023-07-05,Varejo
+266,Olivia Fernandes,Campinas,SP,2023-03-06,Varejo
+267,Erick Pereira,Recife,PE,2023-11-02,Varejo
+268,Paulo Cardoso,Recife,PE,2022-10-14,Varejo
+269,Lucas Rodrigues,Fortaleza,CE,2023-04-01,Corporativo
+270,Igor Fernandes,Rio de Janeiro,RJ,2023-12-04,Varejo
+271,Juliana Fernandes,São Paulo,SP,2023-02-12,Varejo
+272,Diego Martins,Rio de Janeiro,RJ,2023-11-10,Varejo
+273,Aline Cardoso,São Paulo,SP,2022-02-21,Premium
+274,Henrique Pereira,Santos,SP,2022-07-30,Varejo
+275,Fernanda Barbosa,Curitiba,PR,2023-08-24,Varejo
+276,Igor Almeida,Salvador,BA,2024-03-03,Varejo
+277,Juliana Cardoso,São Paulo,SP,2022-10-11,Premium
+278,Eduarda Pereira,Campinas,SP,2022-09-14,Premium
+279,Diego Silva,Belo Horizonte,MG,2022-01-16,Varejo
+280,Gustavo Almeida,Santos,SP,2022-11-28,Varejo
+281,Isabela Santos,Belo Horizonte,MG,2024-01-30,Varejo
+282,Diego Oliveira,Fortaleza,CE,2023-04-05,Premium
+283,Rafaela Melo,Rio de Janeiro,RJ,2023-04-08,Varejo
+284,Vinicius Santos,Campinas,SP,2022-11-05,Varejo
+285,Ana Santos,Fortaleza,CE,2024-05-17,Varejo
+286,Caio Souza,Fortaleza,CE,2023-12-31,Corporativo
+287,Carla Oliveira,Salvador,BA,2023-09-15,Varejo
+288,Eduarda Nascimento,Santos,SP,2023-10-11,Varejo
+289,Daniela Araújo,Recife,PE,2023-09-04,Varejo
+290,Olivia Ribeiro,Santos,SP,2023-03-17,Varejo
+291,Daniela Souza,Campinas,SP,2024-01-09,Premium
+292,Nicolas Martins,Curitiba,PR,2023-02-28,Varejo
+293,Olivia Carvalho,Recife,PE,2024-01-18,Varejo
+294,Nicolas Araújo,Porto Alegre,RS,2023-01-19,Corporativo
+295,Caio Rocha,Rio de Janeiro,RJ,2022-04-04,Premium
+296,Carla Gomes,Rio de Janeiro,RJ,2024-02-02,Premium
+297,Gustavo Pereira,Campinas,SP,2022-03-03,Varejo
+298,Samuel Barbosa,Salvador,BA,2023-11-18,Varejo
+299,Lucas Gomes,São Paulo,SP,2022-10-22,Varejo
+300,Lucas Souza,Santos,SP,2023-06-04,Varejo
+301,Caio Rocha,Curitiba,PR,2024-05-17,Varejo
+302,Igor Barbosa,Salvador,BA,2022-04-28,Premium
+303,Tatiana Almeida,Recife,PE,2024-05-15,Varejo
+304,Fernanda Cardoso,Santos,SP,2023-11-23,Varejo
+305,Ana Cardoso,Porto Alegre,RS,2022-01-30,Varejo
+306,Daniela Lima,Salvador,BA,2022-12-26,Varejo
+307,Igor Pereira,Santos,SP,2023-11-05,Varejo
+308,Eduarda Silva,Rio de Janeiro,RJ,2024-02-04,Varejo
+309,Mariana Gomes,Fortaleza,CE,2022-12-16,Varejo
+310,João Araújo,Santos,SP,2023-09-03,Varejo
+311,Bruno Pereira,Belo Horizonte,MG,2024-02-12,Varejo
+312,Caio Oliveira,Porto Alegre,RS,2023-03-30,Varejo
+313,Paulo Cardoso,Fortaleza,CE,2023-03-01,Varejo
+314,Fernanda Ribeiro,Rio de Janeiro,RJ,2022-12-20,Varejo
+315,João Melo,Fortaleza,CE,2023-06-24,Varejo
+316,Bruno Almeida,Recife,PE,2023-09-06,Varejo
+317,Gabriela Lima,Curitiba,PR,2024-02-25,Varejo
+318,Isabela Lima,Salvador,BA,2022-05-03,Varejo
+319,Erick Gomes,Belo Horizonte,MG,2022-05-13,Varejo
+320,Daniela Almeida,Campinas,SP,2023-07-27,Premium
+321,Gustavo Fernandes,Rio de Janeiro,RJ,2023-02-11,Premium
+322,Bruno Gomes,São Paulo,SP,2023-04-16,Corporativo
+323,Igor Araújo,Santos,SP,2023-03-16,Varejo
+324,Daniela Gomes,Porto Alegre,RS,2022-04-28,Varejo
+325,Karina Costa,Santos,SP,2023-04-17,Premium
+326,Leandro Fernandes,Rio de Janeiro,RJ,2023-03-24,Premium
+327,Henrique Gomes,Santos,SP,2023-02-15,Varejo
+328,Mariana Lima,Salvador,BA,2022-08-15,Varejo
+329,Felipe Oliveira,Campinas,SP,2023-10-11,Varejo
+330,Rafaela Rodrigues,Salvador,BA,2022-12-26,Premium
+331,Helena Pereira,Curitiba,PR,2022-04-16,Varejo
+332,Gabriela Costa,Santos,SP,2022-06-06,Premium
+333,Aline Oliveira,Belo Horizonte,MG,2024-03-02,Varejo
+334,Olivia Melo,Santos,SP,2023-04-05,Varejo
+335,Juliana Melo,Santos,SP,2022-11-27,Premium
+336,Aline Araújo,Belo Horizonte,MG,2023-03-27,Varejo
+337,Olivia Lima,Porto Alegre,RS,2023-08-29,Varejo
+338,Rafaela Oliveira,Porto Alegre,RS,2023-04-18,Varejo
+339,Bruno Fernandes,Porto Alegre,RS,2022-03-20,Varejo
+340,Igor Oliveira,Santos,SP,2023-09-01,Varejo
+341,Olivia Melo,Campinas,SP,2024-03-21,Premium
+342,Bruno Martins,Santos,SP,2023-10-30,Varejo
+343,Vinicius Rocha,Campinas,SP,2022-06-04,Corporativo
+344,Olivia Souza,Salvador,BA,2024-01-02,Varejo
+345,Aline Costa,São Paulo,SP,2022-09-11,Premium
+346,Olivia Ribeiro,Campinas,SP,2023-09-17,Varejo
+347,Lucas Lima,Recife,PE,2023-02-23,Premium
+348,Caio Cardoso,São Paulo,SP,2024-03-19,Varejo
+349,Karina Oliveira,Salvador,BA,2022-04-07,Varejo
+350,Mariana Lima,Porto Alegre,RS,2024-01-12,Premium
+351,Leandro Cardoso,Belo Horizonte,MG,2022-12-08,Varejo
+352,Caio Pereira,Salvador,BA,2022-11-14,Corporativo
+353,Daniela Carvalho,Belo Horizonte,MG,2023-09-02,Premium
+354,Carla Lima,Campinas,SP,2023-01-21,Varejo
+355,Karina Pereira,Campinas,SP,2022-04-06,Varejo
+356,Nicolas Ribeiro,Salvador,BA,2022-01-19,Varejo
+357,Felipe Rodrigues,Salvador,BA,2024-02-24,Varejo
+358,Henrique Pereira,Belo Horizonte,MG,2022-03-21,Varejo
+359,Gustavo Souza,Campinas,SP,2024-02-29,Varejo
+360,Erick Ribeiro,São Paulo,SP,2023-11-09,Varejo
+361,Fernanda Cardoso,Belo Horizonte,MG,2023-09-04,Varejo
+362,Felipe Costa,Santos,SP,2024-04-08,Corporativo
+363,Erick Martins,São Paulo,SP,2023-02-25,Varejo
+364,Erick Almeida,Fortaleza,CE,2023-09-18,Varejo
+365,Erick Martins,Curitiba,PR,2023-07-01,Varejo
+366,Gustavo Rocha,Curitiba,PR,2023-01-12,Varejo
+367,Tatiana Martins,Fortaleza,CE,2024-02-27,Varejo
+368,Mariana Ribeiro,Campinas,SP,2023-03-05,Corporativo
+369,Helena Rodrigues,Santos,SP,2022-05-22,Premium
+370,Bruno Rocha,Salvador,BA,2023-07-22,Corporativo
+371,Daniela Ribeiro,Rio de Janeiro,RJ,2022-10-19,Varejo
+372,Felipe Nascimento,Fortaleza,CE,2023-06-10,Varejo
+373,Nicolas Oliveira,Curitiba,PR,2024-04-16,Varejo
+374,Lucas Silva,Recife,PE,2022-02-24,Varejo
+375,Lucas Almeida,Recife,PE,2022-03-25,Varejo
+376,Ana Araújo,Rio de Janeiro,RJ,2024-05-09,Premium
+377,Karina Pereira,Belo Horizonte,MG,2022-02-09,Varejo
+378,Helena Rocha,Belo Horizonte,MG,2024-02-17,Premium
+379,Olivia Cardoso,São Paulo,SP,2022-03-23,Varejo
+380,Gabriela Pereira,Campinas,SP,2024-01-15,Varejo
+381,Nicolas Souza,Porto Alegre,RS,2022-09-01,Varejo
+382,Bruno Almeida,Recife,PE,2023-10-17,Premium
+383,Olivia Oliveira,Rio de Janeiro,RJ,2024-05-06,Corporativo
+384,Vinicius Barbosa,São Paulo,SP,2023-10-10,Varejo
+385,Henrique Pereira,Porto Alegre,RS,2023-03-16,Varejo
+386,Lucas Almeida,Santos,SP,2023-03-03,Varejo
+387,Caio Oliveira,Campinas,SP,2023-01-05,Varejo
+388,Rafaela Barbosa,Campinas,SP,2024-03-16,Corporativo
+389,Samuel Silva,Recife,PE,2024-06-13,Varejo
+390,Aline Carvalho,Salvador,BA,2022-09-17,Premium
+391,Lucas Oliveira,Salvador,BA,2022-09-04,Premium
+392,Aline Souza,Santos,SP,2024-01-23,Premium
+393,Eduarda Santos,Salvador,BA,2023-07-14,Varejo
+394,Aline Costa,Fortaleza,CE,2023-12-14,Varejo
+395,Felipe Pereira,Rio de Janeiro,RJ,2024-01-04,Premium
+396,Olivia Santos,Porto Alegre,RS,2022-07-26,Varejo
+397,Gabriela Santos,Salvador,BA,2022-11-14,Varejo
+398,Helena Barbosa,Fortaleza,CE,2022-09-17,Varejo
+399,Aline Rodrigues,Porto Alegre,RS,2023-01-01,Premium
+400,Bruno Araújo,Porto Alegre,RS,2022-05-08,Premium
+401,Nicolas Carvalho,Fortaleza,CE,2023-01-31,Varejo
+402,Felipe Rocha,Fortaleza,CE,2023-01-12,Corporativo
+403,Rafaela Nascimento,Rio de Janeiro,RJ,2024-01-15,Varejo
+404,Nicolas Cardoso,Belo Horizonte,MG,2023-07-13,Varejo
+405,Diego Oliveira,Salvador,BA,2023-11-08,Varejo
+406,Olivia Cardoso,Recife,PE,2022-06-20,Varejo
+407,Lucas Martins,São Paulo,SP,2024-01-15,Premium
+408,Lucas Cardoso,Recife,PE,2022-10-09,Varejo
+409,Gustavo Santos,Rio de Janeiro,RJ,2023-11-19,Varejo
+410,Lucas Ribeiro,Belo Horizonte,MG,2022-02-01,Varejo
+411,Vinicius Martins,São Paulo,SP,2022-05-10,Varejo
+412,Fernanda Fernandes,Salvador,BA,2023-01-28,Corporativo
+413,Bruno Cardoso,Belo Horizonte,MG,2023-11-27,Varejo
+414,Lucas Fernandes,Fortaleza,CE,2024-02-21,Varejo
+415,Eduarda Ribeiro,Salvador,BA,2023-02-12,Varejo
+416,Isabela Almeida,Rio de Janeiro,RJ,2022-01-27,Premium
+417,Paulo Ribeiro,Recife,PE,2023-07-30,Varejo
+418,Fernanda Nascimento,Fortaleza,CE,2022-08-08,Corporativo
+419,João Rocha,Curitiba,PR,2022-05-06,Varejo
+420,Carla Martins,Belo Horizonte,MG,2024-01-01,Varejo
+421,Carla Araújo,Salvador,BA,2023-12-28,Varejo
+422,Samuel Lima,Porto Alegre,RS,2024-05-21,Varejo
+423,Daniela Costa,Salvador,BA,2023-06-05,Varejo
+424,Gabriela Pereira,Curitiba,PR,2024-03-20,Varejo
+425,Lucas Barbosa,Santos,SP,2023-01-13,Varejo
+426,Samuel Pereira,Santos,SP,2022-03-30,Varejo
+427,Mariana Rocha,Campinas,SP,2023-02-25,Premium
+428,Helena Melo,Rio de Janeiro,RJ,2022-05-09,Corporativo
+429,Aline Oliveira,Fortaleza,CE,2023-04-23,Varejo
+430,Lucas Pereira,Campinas,SP,2023-10-18,Varejo
+431,Fernanda Pereira,Recife,PE,2023-05-30,Corporativo
+432,Bruno Souza,Campinas,SP,2022-06-06,Varejo
+433,Felipe Araújo,Curitiba,PR,2022-12-21,Corporativo
+434,Rafaela Lima,Rio de Janeiro,RJ,2022-09-14,Varejo
+435,Samuel Nascimento,Belo Horizonte,MG,2023-10-03,Varejo
+436,Samuel Oliveira,Campinas,SP,2023-10-19,Varejo
+437,Tatiana Pereira,Belo Horizonte,MG,2023-11-06,Varejo
+438,Juliana Cardoso,Salvador,BA,2024-05-12,Corporativo
+439,Bruno Silva,Rio de Janeiro,RJ,2022-02-16,Corporativo
+440,Fernanda Melo,Porto Alegre,RS,2023-10-29,Varejo
+441,Tatiana Gomes,Santos,SP,2023-10-17,Varejo
+442,Juliana Barbosa,Porto Alegre,RS,2023-10-20,Corporativo
+443,Paulo Almeida,Recife,PE,2022-11-01,Varejo
+444,Daniela Santos,Belo Horizonte,MG,2023-03-27,Varejo
+445,Olivia Rodrigues,Salvador,BA,2023-09-14,Varejo
+446,Igor Araújo,Salvador,BA,2023-02-13,Varejo
+447,Lucas Ribeiro,Campinas,SP,2022-04-19,Varejo
+448,Olivia Souza,Porto Alegre,RS,2023-04-06,Varejo
+449,Diego Santos,Porto Alegre,RS,2023-01-29,Premium
+450,Nicolas Almeida,Belo Horizonte,MG,2024-04-13,Varejo
+451,Tatiana Araújo,Curitiba,PR,2024-02-21,Varejo
+452,Rafaela Martins,Fortaleza,CE,2024-06-19,Varejo
+453,Ana Oliveira,Recife,PE,2023-06-02,Varejo
+454,Henrique Rodrigues,Santos,SP,2022-12-28,Varejo
+455,João Rocha,Santos,SP,2024-05-13,Varejo
+456,Paulo Lima,Campinas,SP,2022-01-09,Premium
+457,Nicolas Pereira,Porto Alegre,RS,2024-01-15,Varejo
+458,Mariana Fernandes,São Paulo,SP,2023-02-15,Varejo
+459,Samuel Rodrigues,Salvador,BA,2023-07-21,Varejo
+460,Mariana Ribeiro,Fortaleza,CE,2024-02-22,Varejo
+461,Helena Cardoso,Santos,SP,2022-05-02,Varejo
+462,Diego Carvalho,Salvador,BA,2024-03-24,Corporativo
+463,Samuel Fernandes,Belo Horizonte,MG,2022-07-23,Varejo
+464,Mariana Ribeiro,São Paulo,SP,2022-02-16,Varejo
+465,Daniela Araújo,Fortaleza,CE,2023-06-16,Varejo
+466,Vinicius Ribeiro,Belo Horizonte,MG,2022-12-02,Corporativo
+467,Karina Costa,Recife,PE,2023-09-24,Premium
+468,João Melo,Salvador,BA,2023-06-04,Premium
+469,Samuel Rocha,Santos,SP,2022-11-03,Varejo
+470,Ana Fernandes,Salvador,BA,2023-11-21,Varejo
+471,Nicolas Melo,Porto Alegre,RS,2024-03-26,Premium
+472,Igor Silva,Santos,SP,2023-05-01,Varejo
+473,Aline Melo,Santos,SP,2022-08-22,Premium
+474,Tatiana Rocha,Belo Horizonte,MG,2023-06-21,Varejo
+475,Vinicius Carvalho,Belo Horizonte,MG,2024-04-21,Varejo
+476,Bruno Melo,Rio de Janeiro,RJ,2022-07-15,Varejo
+477,Karina Gomes,Belo Horizonte,MG,2023-02-27,Varejo
+478,Nicolas Ribeiro,Santos,SP,2023-04-28,Premium
+479,Erick Santos,Belo Horizonte,MG,2023-06-16,Varejo
+480,Karina Rocha,Campinas,SP,2023-01-21,Varejo
+481,Felipe Martins,Campinas,SP,2022-12-17,Varejo
+482,Caio Nascimento,Santos,SP,2023-05-11,Varejo
+483,Henrique Nascimento,Campinas,SP,2022-11-02,Varejo
+484,João Lima,Curitiba,PR,2023-12-08,Premium
+485,Karina Rocha,Salvador,BA,2023-07-28,Corporativo
+486,Gustavo Nascimento,Porto Alegre,RS,2022-05-05,Varejo
+487,Samuel Carvalho,Recife,PE,2024-04-18,Varejo
+488,Fernanda Pereira,Porto Alegre,RS,2022-02-13,Varejo
+489,Daniela Oliveira,Salvador,BA,2023-03-29,Varejo
+490,Erick Rocha,Curitiba,PR,2022-07-26,Premium
+491,Isabela Barbosa,Porto Alegre,RS,2022-05-21,Varejo
+492,Erick Melo,Curitiba,PR,2022-09-06,Varejo
+493,Juliana Ribeiro,Curitiba,PR,2023-10-16,Varejo
+494,Diego Gomes,Salvador,BA,2024-01-05,Varejo
+495,Caio Pereira,São Paulo,SP,2023-07-18,Corporativo
+496,Felipe Gomes,Fortaleza,CE,2023-05-04,Varejo
+497,Fernanda Lima,Salvador,BA,2022-10-20,Varejo
+498,Leandro Oliveira,Santos,SP,2022-08-26,Varejo
+499,Erick Santos,Belo Horizonte,MG,2023-03-04,Premium
+500,Felipe Santos,Recife,PE,2024-03-17,Varejo
